@@ -1,0 +1,1123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of Scotch proverbs. Collected by Pappity Stampoy.</title>
+            <author>Stampoy, Pappity, pseud.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80114</idno>
+            <idno type="STC">Wing C5190A</idno>
+            <idno type="STC">ESTC R223433</idno>
+            <idno type="EEBO-CITATION">45504441</idno>
+            <idno type="OCLC">ocm 45504441</idno>
+            <idno type="VID">171746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2589:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of Scotch proverbs. Collected by Pappity Stampoy.</title>
+                  <author>Stampoy, Pappity, pseud.</author>
+               </titleStmt>
+               <extent>[2], 58 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.D.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the y[ear] 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: type missing in imprint.</note>
+                  <note>Signatures: A-B¹², C⁶.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proverbs, Scottish.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171746:1" rendition="simple:additions"/>
+            <p>A COLLECTION OF Scotch Proverbs.</p>
+            <p>Collected by <hi>Pappity Stampoy.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. D.</hi> in the Y 1663.</p>
+            <pb facs="tcp:171746:2"/>
+            <pb facs="tcp:171746:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="proverbs">
+            <pb facs="tcp:171746:3"/>
+            <pb n="1" facs="tcp:171746:3"/>
+            <head>Scotch Proverbs.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <seg rend="decorInit">A</seg> Fair Bride is ſoon buskt, and a ſhort Horſe is ſoon wiſpt.</item>
+               <item>A friends Dinner is ſoon dight.</item>
+               <item>All is not in hand that helps.</item>
+               <item>All the Keys of the Countrey hangs not at one Belt.</item>
+               <item>An ill Cook would have a good Cleaver.</item>
+               <item>As good hand, as draw.</item>
+               <item>As the old Cock craws, the young Cock lears.</item>
+               <item>All fails that fools thinks.</item>
+               <item>A blyth heart makes a blomand viſage.</item>
+               <item>A gentle Horſe would not be <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <pb n="2" facs="tcp:171746:4"/>
+               <item>A ſtill Sow eats all the Draff.</item>
+               <item>All things hath a beginning, God excepted.</item>
+               <item>A blind man ſhould not judge of colours.</item>
+               <item>A good fellow tint never, but at an ill fellows hand.</item>
+               <item>All the Corn in the Country is not ſhorn by the Kempers.</item>
+               <item>A good beginning makes a good ending.</item>
+               <item>As many heads as many wits.</item>
+               <item>A black ſhoe makes a blythe heart.</item>
+               <item>A Vaunter and a Lyar is both one thing.</item>
+               <item>A dum man wan never land.</item>
+               <item>And old hound bytes ſair.</item>
+               <item>A ſloathfull man is a Beggers brother.</item>
+               <item>As ſoon comes the Lamb-skin to the market as the old Sheeps.</item>
+               <item>At open doors Dogs come in.</item>
+               <item>An hungry man ſees far.</item>
+               <item>All is not tint that is in peril.</item>
+               <pb n="3" facs="tcp:171746:4"/>
+               <item>As the Sow fills the Draff ſowres.</item>
+               <item>A good asker ſhould have a good nay-ſay.</item>
+               <item>A good ruſer was never a good rider.</item>
+               <item>A Lyar ſhould have a good me<g ref="char:EOLhyphen"/>mory.</item>
+               <item>Ane Begger is wae, another by the gate gae.</item>
+               <item>A wight man never wanted a weapon.</item>
+               <item>A half-penny Cat may look to the King.</item>
+               <item>As fair greits the bairn that is dung after noon, as he that is dung before noon.</item>
+               <item>An oleit Mother makes a ſweir Daughter.</item>
+               <item>A borrowed len ſhould come laughing a hme.</item>
+               <item>As long runs the Fox as he hath feet.</item>
+               <item>A proud heart in a poor breaſt, has meikle dolour to dree.</item>
+               <item>A teem purſe makes a bleat mer<g ref="char:EOLhyphen"/>chant.</item>
+               <pb n="4" facs="tcp:171746:5"/>
+               <item>Ane year a Nuriſh, ſeven years a Daw.</item>
+               <item>Ane ill word begets another, and it were at at the Bridge at <hi>London.</hi>
+               </item>
+               <item>A Wool-ſeller kens a Wool-buy<g ref="char:EOLhyphen"/>er.</item>
+               <item>Auld men are twice bairns.</item>
+               <item>All fellows, Jock and the Laird.</item>
+               <item>A haſty man never wanted woe.</item>
+               <item>A ſilly bairn is eith to lear.</item>
+               <item>As good merchant tines as wins.</item>
+               <item>A rackleſſe huſſy makes mony thieves.</item>
+               <item>A hungry lowſe bites ſair.</item>
+               <item>Anes payit never crave it.</item>
+               <item>A fools bolt is ſoon ſhot.</item>
+               <item>Anes wood, never wiſe, ay the worſe.</item>
+               <item>As the Carle riches he wretches.</item>
+               <item>An ill life, an ill end.</item>
+               <item>A Skabbed Horſe is good enough for a skald Squire.</item>
+               <item>A given Horſe ſhould not be lookt in the teeth.</item>
+               <item>An old ſeck craves meikle clout<g ref="char:EOLhyphen"/>ing.</item>
+               <pb n="5" facs="tcp:171746:5"/>
+               <item>A travelled man hath leave to lye.</item>
+               <item>A fool when he hes ſpoken, hes all done.</item>
+               <item>A man that is warned, is half-armed.</item>
+               <item>A mirk mirrour is a mans mind.</item>
+               <item>A full heart lied never.</item>
+               <item>A good Cow may have an ill Calf.</item>
+               <item>A dum man holds all.</item>
+               <item>A Cock is crouſe upon his own midding.</item>
+               <item>A greedy man God hates.</item>
+               <item>As fair fights Wrans as Cranes.</item>
+               <item>A skade mans head is ſoon broke.</item>
+               <item>A yeeld Sow was never good to gryſes.</item>
+               <item>An unhappy mans Cairt is eith to tumble.</item>
+               <item>As meikle upwith, as meikle downwith.</item>
+               <item>A new Biſſom ſweeps clean.</item>
+               <item>A skabbed ſheep fyles all the flock.</item>
+               <pb n="6" facs="tcp:171746:6"/>
+               <item>A tarrowing bairn was never fat.</item>
+               <item>A tratler is worſe then a thief.</item>
+               <item>An ill ſhearer gat never a good hook.</item>
+               <item>A burnt bairn fire dreads.</item>
+               <item>All the ſpeed is in the ſpurs.</item>
+               <item>A word before is worth two be<g ref="char:EOLhyphen"/>hinde.</item>
+               <item>An ill win penny will caſt down a pound.</item>
+               <item>An old ſeck is ay skailing.</item>
+               <item>A fair fire makes a room flet.</item>
+               <item>An old Knave is na bairn.</item>
+               <item>A good yeoman makes a good woman.</item>
+               <item>A man hath no more good then he hath good of.</item>
+               <item>A fool may give a wiſe man a counſell.</item>
+               <item>A man may ſpeir the gate to <hi>Rome.</hi>
+               </item>
+               <item>As long lives the merry-man, as the wretch for all the craft he can.</item>
+               <item>All wald have all, all wald for<g ref="char:EOLhyphen"/>give.</item>
+               <pb n="7" facs="tcp:171746:6"/>
+               <item>Ane may lead a Horſe to the water, but four and twenty cannot gar him drink.</item>
+               <item>A bleat Cat makes a proud Mouſe.</item>
+               <item>An ill-willy Cow ſhould have ſhort horns.</item>
+               <item>A good piece ſteil is worth a pen<g ref="char:EOLhyphen"/>ny.</item>
+               <item>A ſhored Tree ſtands long.</item>
+               <item>A gloved Cat was never a good Hunter.</item>
+               <item>A gangan foot is ay getting, and it were but a thorn.</item>
+               <item>All is not gold that glitters.</item>
+               <item>Ane Swallow makes no ſummer.</item>
+               <item>A man may ſpit on his hand, and doe full ill.</item>
+               <item>An ill ſervant will never be a good maiſter.</item>
+               <item>An hired Horſe tired never.</item>
+               <item>All the winning is in the firſt buying.</item>
+               <item>An unch is a feaſt, (of Bread and Cheeſe.)</item>
+               <pb n="8" facs="tcp:171746:7"/>
+               <item>An Horſe may ſnapper on four feer.</item>
+               <item>All things wytes that well not fares.</item>
+               <item>All things thrive but thrice.</item>
+               <item>Abſence is a ſhro.</item>
+               <item>Auld ſin, new ſhame.</item>
+               <item>A man cannot thrive except his wife let him.</item>
+               <item>A bairn muſt creep ere he gang.</item>
+               <item>As long as ye bear the tod, ye man bear up his tail.</item>
+               <item>All overs are ill but over the wa<g ref="char:EOLhyphen"/>ter.</item>
+               <item>A man may wooe where he will, but wed where is his weard.</item>
+               <item>A mean pot plaid never even.</item>
+               <item>Among twenty four fools not ane wiſe man.</item>
+               <item>Ane mans meat is another mans poyſon.</item>
+               <item>A fool will not give his Bauble for the Tower of <hi>London.</hi>
+               </item>
+               <item>A foul foot makes a fon wemb.</item>
+               <item>A man is a Lyon in his own cauſe.</item>
+               <pb n="9" facs="tcp:171746:7"/>
+               <item>A hearty hand to give a hungry meltith.</item>
+               <item>A cumberſome Cur in company is hated for his miſcarriage.</item>
+               <item>A poor man is fain of little.</item>
+               <item>An anſwer in a word.</item>
+               <item>A bettleſſe brain cannot lye.</item>
+               <item>A yule feaſt may be quit at Paſch.</item>
+               <item>A good dog never barkt but a bene.</item>
+               <item>A full ſeck will take a clout on the ſide.</item>
+               <item>An ill hound comes halting home.</item>
+               <item>All things helps quoth the Wran, when ſhe piſht in the Sea.</item>
+               <item>All cracks, all beares.</item>
+               <item>All Houndleſſe man comes to the beſt Hunting.</item>
+               <item>All things hes an end, a Pudding hes twa.</item>
+               <item>All is well that ends well.</item>
+               <item>As good hads the ſtirep as he that loups on.</item>
+               <pb n="10" facs="tcp:171746:8"/>
+               <item>A begun work is half ended.</item>
+               <item>A Scots man is ay wiſe behind hand.</item>
+               <item>A new tout in all old horn.</item>
+               <item>A broken a Ship hes come to land.</item>
+               <item>As the fool thinks ay the bell clinks.</item>
+               <item>A man may ſee his friend need, but will not ſee him bleed.</item>
+               <item>A friend is not known but in need.</item>
+               <item>A friend in Court is worth a penny in purſe.</item>
+               <item>All things are good unſeyed.</item>
+               <item>A good Gooſe indeed, but ſhe hes an ill ganſell.</item>
+               <item>All are not maidens that wears bare hair.</item>
+               <item>A Mach and a Horſhoe are both alike.</item>
+               <item>Airly crooks the Tree that good Lammock ſhould be.</item>
+               <item>An ounce of mother-wit, is worth a pound of clergie.</item>
+               <pb n="11" facs="tcp:171746:8"/>
+               <item>An inch of a nag is worth a ſpan of an aver.</item>
+               <item>A good word is as ſoon ſaid as an ill.</item>
+               <item>A ſpoon full of skytter ſpills a pot full of skins.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>BEtter give nor take.</item>
+               <item>Better lang little, then ſoon right nought.</item>
+               <item>Better hand looſe, nor bound to an ill baikine.</item>
+               <item>Better late thrive then never.</item>
+               <item>Buy when I bid you.</item>
+               <item>Better ſit idle then work for nought.</item>
+               <item>Better learn by your neighbors skaith nor by your own.</item>
+               <item>Better half an egge, nor teem doup.</item>
+               <item>Better apple given nor eaten.</item>
+               <item>Better a Dog faun nor bark on you.</item>
+               <pb n="12" facs="tcp:171746:9"/>
+               <item>Boden gear ſtinks.</item>
+               <item>Bourd neither with me, nor with my Honour.</item>
+               <item>Betwixt twae ſtools the arſe falls down.</item>
+               <item>Better bide the Cooks nor the Mediciners.</item>
+               <item>Better bairns greit, nor bearded men.</item>
+               <item>Better ſaucht with little aucht, nor care with many cow.</item>
+               <item>Better two skaiths, nor ane ſorrow.</item>
+               <item>Bring a Cow to the Hall, and ſhe will run to the byre again.</item>
+               <item>Better bow nor break.</item>
+               <item>Bear wealth, poverty will bear it ſelf.</item>
+               <item>Better a wit coft, nor two for nought.</item>
+               <item>Better good ſale, nor good Ale.</item>
+               <item>Better wooe over midding, nor over moſſe.</item>
+               <item>Better happy to court, nor good ſervice.</item>
+               <item>Blaw the wind nere ſo faſt, it will lowen at the laſt.</item>
+               <pb n="13" facs="tcp:171746:9"/>
+               <item>Better be happy nor wiſe.</item>
+               <item>Binde faſt, finde faſt.</item>
+               <item>Better plays a full wemb nor a new coat.</item>
+               <item>Better ſay, Here it is, nor, Here it was.</item>
+               <item>Better auld debts nor auld ſairs.</item>
+               <item>Bourd not with Bawty, fear leſt he bite ye.</item>
+               <item>Better a fowl in hand nor twa flying.</item>
+               <item>Better rew ſit, nor rew flit.</item>
+               <item>Better ſpare at the breird nor at the bottome.</item>
+               <item>Better finger off, nor ay wark<g ref="char:EOLhyphen"/>ing.</item>
+               <item>Bind the ſeck ere it be full.</item>
+               <item>Better be well loved, nor ill won geir.</item>
+               <item>Better a clout nor a hole out.</item>
+               <item>Better no ring, nor the ring of a raſh.</item>
+               <item>Butter and burn-trouts gar mai<g ref="char:EOLhyphen"/>dens f—the wind.</item>
+               <item>Better held out nor put out.</item>
+               <pb n="14" facs="tcp:171746:10"/>
+               <item>Better have a Mouſe in the pot as no fleſh.</item>
+               <item>Better ſit ſtil, nor riſe and get a fall.</item>
+               <item>Better leave nor want.</item>
+               <item>Better buy as borrow.</item>
+               <item>Better be dead as out of the fa<g ref="char:EOLhyphen"/>ſhion.</item>
+               <item>Better unborn nor untaught.</item>
+               <item>Better be envied nor pittied.</item>
+               <item>Better a little fire that warms, nor a meikle that burns.</item>
+               <item>Be the ſame thing that thou wald be cald.</item>
+               <item>Better a laying Hen nor a lyin Crown.</item>
+               <item>Bannaks is better nor na kind of bread.</item>
+               <item>Black will be no other Hue.</item>
+               <item>Beauty but bounty avails nought.</item>
+               <item>Bairns mother burſt never.</item>
+               <item>Breads Houſe skiald never.</item>
+               <item>Biting and ſcarting is Scots folks wooing.</item>
+               <item>Beware of Had I wiſt.</item>
+               <pb n="15" facs="tcp:171746:10"/>
+               <item>Better be alone nor in ill com<g ref="char:EOLhyphen"/>pany.</item>
+               <item>Better a chigging mother, nor a riding father.</item>
+               <item>Better never begun nor never endit.</item>
+               <item>Bonie ſilver is ſoon ſpendit.</item>
+               <item>Before I wein, and now I wat.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>CUrteſie is cumberſom to them that kens it not.</item>
+               <item>Come it aire, come it late, in May comes the Cow-quake.</item>
+               <item>Court to the Town, and whore to the window.</item>
+               <item>Calk is na ſheares.</item>
+               <item>Clap a carle on the culs, and he will ſhit in your louf.</item>
+               <item>Cadgers ſpeaks of lead ſaddles.</item>
+               <item>Changing of works is lighting of hearts.</item>
+               <item>Charge your friend ere you need.</item>
+               <pb n="16" facs="tcp:171746:11"/>
+               <item>Cats eats that Huſſies ſpares.</item>
+               <item>Caſt not forth the old water while the new come in.</item>
+               <item>Ceaſe your ſnow balls caſting.</item>
+               <item>Crabbit was, and cauſe had.</item>
+               <item>Compariſons are odious.</item>
+               <item>Cold cools the love that kindles over hot.</item>
+               <item>Cut duels in every Town.</item>
+               <item>Condition makes, and condi<g ref="char:EOLhyphen"/>tion breakes.</item>
+               <item>Come not to the councell uncal<g ref="char:EOLhyphen"/>led.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DEad and marriage makes Term<g ref="char:EOLhyphen"/>day.</item>
+               <item>Do weiland have weil.</item>
+               <item>Do as ye wald be done to.</item>
+               <item>Do in Hill, as ye wald do in Hall.</item>
+               <item>Dame dein warily.</item>
+               <item>Dummie cannot lie.</item>
+               <item>Draff is good enough for Swine.</item>
+               <item>Dead at the one door, and heir<g ref="char:EOLhyphen"/>ſhip at the other.</item>
+               <pb n="17" facs="tcp:171746:11"/>
+               <item>Do well, and doubt no man; and do weil, and doubt all men.</item>
+               <item>Do the likelieſt, and God will do the beſt.</item>
+               <item>Drunken wife gat ay the drun<g ref="char:EOLhyphen"/>ken penny.</item>
+               <item>Drink and drouth comes ſindle together.</item>
+               <item>Dead men bites not.</item>
+               <item>Daſſing dow nothing.</item>
+               <item>Dogs will red ſwine.</item>
+               <item>Drive out the inch as thou haſt done the ſpan.</item>
+               <item>Dirt parts company.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>EVery man can rule an ill wife, but he that hes Her.</item>
+               <item>Eaten meat is good to pay.</item>
+               <item>Eild wald have Honour.</item>
+               <item>Evening Orts is good morning<g ref="char:EOLhyphen"/>fother.</item>
+               <item>Every man wiſheth the water to his own milne.</item>
+               <pb n="18" facs="tcp:171746:12"/>
+               <item>Early maiſter, lang knave.</item>
+               <item>Every land hes his lauch, and e<g ref="char:EOLhyphen"/>very co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e hes the caff.</item>
+               <item>Eat and drink meaſurely, and de<g ref="char:EOLhyphen"/>fie the mediciners.</item>
+               <item>Every man for Himſelf, quoth the mertine.</item>
+               <item>Efter delay comes a Let.</item>
+               <item>Efter long mint, never dint.</item>
+               <item>Every man flams the fat ſows Arſe.</item>
+               <item>Experience may teach a fool.</item>
+               <item>Every man wats beſt where his own ſhoe binds him.</item>
+               <item>Efter word comes weard.</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>FOul water ſlokens fire.</item>
+               <item>Fools are fain of flitting.</item>
+               <item>Falſhood made never a fair Hin<g ref="char:EOLhyphen"/>der-end.</item>
+               <item>Far fowls have fair feathers.</item>
+               <item>Follie is a bonny Dog.</item>
+               <item>Fair heights makes fools fain.</item>
+               <pb n="19" facs="tcp:171746:12"/>
+               <item>Freedome is a fair thing.</item>
+               <item>For a tint thing care not.</item>
+               <item>Fool haſt is no ſpeed.</item>
+               <item>For fault of wiſemen fools ſits on binks.</item>
+               <item>Forbid a fool a thing, and that he will do.</item>
+               <item>Fools ſet far tryſtes.</item>
+               <item>For love of the Nuris, many kiſ<g ref="char:EOLhyphen"/>ſes the Bairn.</item>
+               <item>Fair words brake never bane, foul words man, ane.</item>
+               <item>Fools make feaſts, and wiſe men cat them.</item>
+               <item>Fools are fain of right nought.</item>
+               <item>Far ſought, and dear bought, is good for Ladies.</item>
+               <item>Follow love, and it will flee from thee; leave it, and it will follow thee.</item>
+               <item>Fill fow, and had fow, makes a ſtarke man.</item>
+               <item>Fools ſhould have no chappin ſticks.</item>
+               <item>Fidlers dogs and flies, come to the feaſt uncalled.</item>
+               <pb n="20" facs="tcp:171746:13"/>
+               <item>Fire is good for the farcy.</item>
+               <item>Few words ſufficeth to a wiſe man.</item>
+               <item>Friendſhip ſtands not in One ſide.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GIve never the Wolf the Wed<g ref="char:EOLhyphen"/>der to keep.</item>
+               <item>Gods help is nearer nor the fair evin.</item>
+               <item>Good wine needs not a wiſp.</item>
+               <item>Grace is beſt for the marr.</item>
+               <item>Goe ſhoe the Geeſe.</item>
+               <item>Giff, gaff, makes good friends.</item>
+               <item>Good chear, and good cheap, garres many haunt the Houſe.</item>
+               <item>God ſends men cold, as they have clothes to.</item>
+               <item>Good-will ſhould be tane in part of payment.</item>
+               <item>God ſends never the mouth, but the meat with it.</item>
+               <item>Girne when you knit, and laugh when ye looſe.</item>
+               <pb n="21" facs="tcp:171746:13"/>
+               <item>Go to the Devil for Gods-ſake.</item>
+               <item>God ſends meat, and the Devil ſends Cooks.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HAd-I-fiſh, was never good with Garlick.</item>
+               <item>He that is welcome fares well.</item>
+               <item>He that ſpends his geir on a whore, hes both ſhame and skaith.</item>
+               <item>Hunger is good Kitchin-meat.</item>
+               <item>He mon have leave to ſpeak that cannot had his tongue.</item>
+               <item>He that is far from his geir, is near his skaith.</item>
+               <item>He that lippens to bon plows, his land will ly ley.</item>
+               <item>He rides ſicker that fell never.</item>
+               <item>Help thy ſelf, and God will help thee.</item>
+               <item>He that will not hear mother<g ref="char:EOLhyphen"/>head, ſhall hear ſtepmotherhead.</item>
+               <item>He that crabs without cauſe, ſhould meaſe without mends.</item>
+               <pb n="22" facs="tcp:171746:14"/>
+               <item>He that ſpares to ſpeak, ſpares to ſpeed.</item>
+               <item>He that may not do as he would, mon do as he may.</item>
+               <item>He is well e<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>t that hes ought of his <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> when others go to meat.</item>
+               <item>He <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> does ill hates the light.</item>
+               <item>He th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſpeaks the things he ſhould <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the things he would not.</item>
+               <item>He that is evil deem'd is half hang'd.</item>
+               <item>He that tholes, overcomes.</item>
+               <item>He riſes over early that is hangit ere noon.</item>
+               <item>He that forſakes miſſour, miſſour forſake him.</item>
+               <item>Half a tale is enough to a wiſe man.</item>
+               <item>He that hews over hie, the ſpail will fall into his eye.</item>
+               <item>He that eats while he laſts, will be the war while he die.</item>
+               <item>He is a weak Horſe that may not bear the Saddle.</item>
+               <pb n="23" facs="tcp:171746:14"/>
+               <item>He that borrows and bigs; makes feaſts and thigs; drinks and is not dry; theſe three are not thrifty.</item>
+               <item>He is a proud Tod that will not ſcrape his own Hole.</item>
+               <item>He is wiſe, when he is well can had him ſa.</item>
+               <item>He is poor that God Hates.</item>
+               <item>He is wiſe, that is ware in time.</item>
+               <item>He is wiſe who can make a friend of a foe.</item>
+               <item>Hair, and hair, makes the Carles head bare.</item>
+               <item>Hear all parties.</item>
+               <item>He that is red for windleſtraws, ſhould not ſleep in lees.</item>
+               <item>He that is fraid of a far— ſhould never hear thunder.</item>
+               <item>He is not the fool that the fool is, but he that with the fool deals.</item>
+               <item>He loves me for little that hates me for nought.</item>
+               <item>He that hes twa huirds, is able to get the third.</item>
+               <item>He is a ſairy beggar that may
+<pb n="24" facs="tcp:171746:15"/>not goe by ane mans door.</item>
+               <item>Hall-binks are ſliddery.</item>
+               <item>He is not the beſt Wright that hews the manieſt ſpeals.</item>
+               <item>He that evill does, never good weins.</item>
+               <item>Hoordom and grace, can never bide in one place.</item>
+               <item>He that counts all coſts, will ne<g ref="char:EOLhyphen"/>ver put plow in the yeard.</item>
+               <item>He that ſlayes, ſhall be ſlain.</item>
+               <item>He that is ill of his harbery, is good of his way kenning.</item>
+               <item>He that will not when he may, ſhall not when he wald.</item>
+               <item>Hanging gangs by hap.</item>
+               <item>He that comes un-call'd ſits un<g ref="char:EOLhyphen"/>ſerv'd.</item>
+               <item>He was ſcant of news, that told his Father was hang'd.</item>
+               <item>He that comes firſt to the hill, may ſit where he will.</item>
+               <item>He that was born to be hang'd will never be drown'd.</item>
+               <item>He gangs early to ſteal, that cannot ſay Na.</item>
+               <pb n="25" facs="tcp:171746:15"/>
+               <item>He that ſhames, ſhall be ſhent.</item>
+               <item>He ſhould wear iron ſhone, that bides his neighbours deed.</item>
+               <item>Half a nuch is half fill.</item>
+               <item>Hunger is hard in a heal man.</item>
+               <item>He is a ſairy Cook, that may not lick his own fingers.</item>
+               <item>He is good that fail'd never.</item>
+               <item>He plaints early that plaints on his kail.</item>
+               <item>He that does his turn in time, ſits half idle.</item>
+               <item>He is twiſe fain, that ſits on a flane.</item>
+               <item>Hald in geir, helps well.</item>
+               <item>Hunting, hawking, and para<g ref="char:EOLhyphen"/>mours, for one joy an hundred diſ<g ref="char:EOLhyphen"/>pleaſures.</item>
+               <item>He that marries e're he be wiſe, will die e're he thrive.</item>
+               <item>He that marries a Daw, eats mei<g ref="char:EOLhyphen"/>kle dirt.</item>
+               <item>Huly and fair men rides far jour<g ref="char:EOLhyphen"/>neys.</item>
+               <item>Haſt makes waſt.</item>
+               <pb n="26" facs="tcp:171746:16"/>
+               <item>He that looks not e're he loup, will fall e're he wit of himſelf.</item>
+               <item>He that counts but his Hoſt, counts twiſe.</item>
+               <item>He that hes gold may buy land.</item>
+               <item>He ſhould have a heal pow, that cals his neighbour nikkynow.</item>
+               <item>He is worth no weil that may bide no wae.</item>
+               <item>He that owes the Cow goes nea<g ref="char:EOLhyphen"/>reſt her tail.</item>
+               <item>He ſhould have a long ſhafted ſpoon that ſups kail with the Devil.</item>
+               <item>Happy man, happy cavil.</item>
+               <item>He ſits above that deals alkers.</item>
+               <item>Hame is hamely, though never ſo ſeemly.</item>
+               <item>He hes wit at will, that with an<g ref="char:EOLhyphen"/>gry heart can hold him ſtill.</item>
+               <item>He that is hated of his ſubjects cannot be counted a King.</item>
+               <item>Hap and an halfpennie is world geir enough.</item>
+               <item>He is ſaireſt dung when his own wand dings him.</item>
+               <pb n="27" facs="tcp:171746:16"/>
+               <item>He calls me ſcabbed, becauſe I will not call him skade.</item>
+               <item>He is blind that eats his marrow, but far blinder that lets him.</item>
+               <item>Have God and have All.</item>
+               <item>Honeſty is na pride.</item>
+               <item>He that fiſhes afore the net, long e're he fiſh get.</item>
+               <item>He tint never a Cow, that grat for a needle.</item>
+               <item>He that hes no geir to tine, hes ſhins to pine.</item>
+               <item>Hea, will gar a deaf man hear.</item>
+               <item>He that takes all his geir fra himſelf, and gives it to his bairns, it were weil ward to take a mell and knock out his hairns.</item>
+               <item>He ſits full ſtill that hes a riven briek.</item>
+               <item>He that does bidding, deſerves na dinging.</item>
+               <item>He that blaws beſt bears away the Horn.</item>
+               <item>He is well ſtaikit thereben, that will neither borrow, nor len.</item>
+            </list>
+            <pb n="28" facs="tcp:171746:17"/>
+            <list>
+               <head>I.</head>
+               <item>ILl weeds waxes weil.</item>
+               <item>It is ill to bring out of the fleſh that is bred in the bene.</item>
+               <item>It is a fairy brewing that is not good in the newing.</item>
+               <item>It's tint that is done to old men and bairns.</item>
+               <item>It is a ſilly flock where the yow bears the bell.</item>
+               <item>Ill win, ill warit.</item>
+               <item>In ſome mens aught mon the old horſe die.</item>
+               <item>It is a ſooth board that men ſees wakin.</item>
+               <item>In ſpace, comes Grace.</item>
+               <item>It is a ſin to lye on the Devil.</item>
+               <item>It is cith till, that the awn ſelf will.</item>
+               <item>It is good mows that fills the wemb.</item>
+               <item>It is na time to ſtoup when the head is off.</item>
+               <pb n="29" facs="tcp:171746:17"/>
+               <item>It is fair in the hall, when beards wag all.</item>
+               <item>It will come in an hour, that will not come in a year.</item>
+               <item>If thou do no ill, do no ill like.</item>
+               <item>If he ſteal not my kail, break not my dike.</item>
+               <item>If he may ſpend meikle, put the more to the fire.</item>
+               <item>If I can get his cart at a Waltar, I ſhall lend it a put.</item>
+               <item>If I may not keep geeſe, I ſhall keep geſline.</item>
+               <item>It is kindly that the poke ſair of the Herring.</item>
+               <item>It is eith to cry yule on another man's coſt.</item>
+               <item>Ilk a man as he loves, let him ſend to the Cooks.</item>
+               <item>It is eith to ſwim where the head is hild up.</item>
+               <item>It is weil warit they have ſor<g ref="char:EOLhyphen"/>row, that buyes it with their ſilver.</item>
+               <item>If ane will not, another will.</item>
+               <item>It is ill to take a breik off a bare.</item>
+               <pb n="30" facs="tcp:171746:18"/>
+               <item>It is dear bought honey that is lickt off a thorn.</item>
+               <item>If God be with us, who will be againſt us.</item>
+               <item>It is weil warit that waſters want geir.</item>
+               <item>It is ill to bring but the thing that is not thereben.</item>
+               <item>It that lies not in your gate, breaks not your ſhins.</item>
+               <item>It is na play where ane greits, and another laughs.</item>
+               <item>If a man knew what would be dear, he would be but Merchant for a year.</item>
+               <item>It is true that all men ſayes.</item>
+               <item>I have a good bow, but it is in the Caſtle.</item>
+               <item>It is hard to fling at the brod, or kick at the prick.</item>
+               <item>Ilk man mend ane, and all will be mendit.</item>
+               <item>It is a ſairy collop that is tane off a Capon.</item>
+               <item>Ill bairns are beſt heard at home.</item>
+               <pb n="31" facs="tcp:171746:18"/>
+               <item>It is ill to waken ſleeping dogs.</item>
+               <item>Ill herds makes fat wolfes.</item>
+               <item>It is hard to wive and thrive in a year.</item>
+               <item>It is good ſleeping in a heal skin.</item>
+               <item>It is not tint that is done to friends.</item>
+               <item>It is ill to draw a ſtrea before an old Cat.</item>
+               <item>It is a pain both to pay and pray.</item>
+               <item>It is good fiſhing in drumbling waters.</item>
+               <item>It is little of God's might, to make a poor man a Knight.</item>
+               <item>It is good baking beſides meal.</item>
+               <item>It is a good Gooſe that drops ay.</item>
+               <item>It is not the habit that makes the Monck.</item>
+               <item>It is not good to want, and to have.</item>
+               <item>It hes neither—, nor elbow.</item>
+               <item>I ſhall ſit on his skirt.</item>
+               <item>It is a bare Moor that he goes o<g ref="char:EOLhyphen"/>ver, and gets not a Cow.</item>
+               <item>I ſhall hold his Noſe to the Grindſtone.</item>
+               <pb n="32" facs="tcp:171746:19"/>
+               <item>It goes as meikle in his heart, as in his heel.</item>
+               <item>It goes in at one ear, and out at the other.</item>
+               <item>It is na mair pitty to ſee a Wo<g ref="char:EOLhyphen"/>man greit, nor to ſee a Gooſe go barefoot.</item>
+               <item>It is well ſaid, but who will bell the Cat?</item>
+               <item>It is ſhort while ſeen the louſe boore the langelt.</item>
+               <item>I have a ſliddery Eel by the tail.</item>
+               <item>It is as meet as a Sow to bear a Saddle.</item>
+               <item>It is as meet as a thief for the widdie.</item>
+               <item>I would I had as meikle pepper as he counts himſelf worthy Mice dirt.</item>
+               <item>It will be an ill web to bleitch.</item>
+               <item>I cannot find you both tails and ears.</item>
+               <item>It is ill to make a bowing horn of a tods tail.</item>
+               <item>If ever ye make a lucky pudding, I ſhall eat the prick.</item>
+               <pb n="33" facs="tcp:171746:19"/>
+               <item>It that God will give, the Devil cannot reave.</item>
+               <item>In a good time I ſpeak it, in a better I leave it.</item>
+               <item>It's a ſilly pack that may not pay the cuſtom.</item>
+               <item>I have ſeen as light a green.</item>
+               <item>It's a cold coal to blow at.</item>
+               <item>It is a ſair feild where all are dung down.</item>
+               <item>It's a ſair dung bairn that dare not greit.</item>
+               <item>I wat where my own ſhoe binds me.</item>
+               <item>If ye wanted me, and your meat, you would want ane good friend.</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>KIndneſſe lies not ay in ane ſide of the houſe.</item>
+               <item>Kings caff is worth other mens corn.</item>
+               <item>Kame ſingle, kame ſair.</item>
+               <item>Kings have a long ears.</item>
+               <pb n="34" facs="tcp:171746:20"/>
+               <item>Kindneſſe comes of will.</item>
+               <item>Kindneſſe will creep where it may not gang.</item>
+               <item>Kail ſpares bread.</item>
+               <item>Kindneſſe cannot be bought for geir.</item>
+               <item>Kameſters are ay creeſhie.</item>
+               <item>Knowledge is eith born about.</item>
+               <item>Kings are out of play.</item>
+               <item>Kings and Bears oft worries their Keepers.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>LAith to bed, laith out of it.</item>
+               <item>Like draws to like, a skabbed Horſe to an old dyke.</item>
+               <item>Lear young, lear fair.</item>
+               <item>Little intermitting makes good friends.</item>
+               <item>Little ſayd is ſoon mended, and a little geir is ſoon ſpended.</item>
+               <item>Long tarrowing takes all the thank away.</item>
+               <item>Long lean makes hameald cattell.</item>
+               <pb n="35" facs="tcp:171746:20"/>
+               <item>Little wit makes meikle travel.</item>
+               <item>Let them that are cold blow at the coal.</item>
+               <item>Little may an old Horſe do, if he may not neigh.</item>
+               <item>Love hes no lack.</item>
+               <item>Long ſtanding, and little ofter<g ref="char:EOLhyphen"/>ing, makes a poor price.</item>
+               <item>Leave the Court, ere the Court leave thee.</item>
+               <item>Long ere you cut Falkland-wood with a Pen-knife.</item>
+               <item>Light ſupper makes long life.</item>
+               <item>Liked geir is half bought.</item>
+               <item>Lucke and bone voyage.</item>
+               <item>Like to die mends not the Kirk<g ref="char:EOLhyphen"/>yard.</item>
+               <item>Lordſhips changes manners.</item>
+               <item>Let him drink as he hes browen.</item>
+               <item>Light winning makes a heavy purſe.</item>
+               <item>Likely lies in the mire, and un<g ref="char:EOLhyphen"/>likely goes by it.</item>
+               <item>Live, and let live.</item>
+               <item>Love me, love my dog.</item>
+               <pb n="36" facs="tcp:171746:21"/>
+               <item>Laugh, and lay down again.</item>
+               <item>Liveleſſe, faultleſſe.</item>
+               <item>Laith to the drink, laith fra it.</item>
+               <item>Laſt in bed, beſt heard.</item>
+               <item>Lightly comes, lightly goes.</item>
+               <item>Lads will be men.</item>
+               <item>Lata is long and dreigh.</item>
+               <item>Little wats an ill huſſie what a dinner holds in.</item>
+               <item>Lips go, lapsago, he that eats, let him pay.</item>
+               <item>Let alone makes many lurden.</item>
+               <item>Little kens the wife that fits by the fire, how the wind blows cold in hurle-burle ſwyre.</item>
+               <item>Little troubles the eye, but far leſſe the ſoul.</item>
+               <item>Love me little, and love me long.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>MAny do lack, that yet would fain have in their pack.</item>
+               <item>Many ſmalls makes a great.</item>
+               <pb n="37" facs="tcp:171746:21"/>
+               <item>Meaſure, is Treaſure.</item>
+               <item>Mint, ere ye ſtrike.</item>
+               <item>Many irons in the fire, part muſt cool.</item>
+               <item>Men may buy Gold over dear.</item>
+               <item>Many ſpeaks of <hi>Robin Hood,</hi> that never ſhot in his Bow.</item>
+               <item>Maidens ſhould be meek while they be married.</item>
+               <item>Many purſes holds friends toge<g ref="char:EOLhyphen"/>ther.</item>
+               <item>Miſterfull folk muſt not be mensfull.</item>
+               <item>Meat makes, and clothes ſhapes, but manners makes a man.</item>
+               <item>Many hands makes light work.</item>
+               <item>Meat is good, but Menſe is bet<g ref="char:EOLhyphen"/>ter.</item>
+               <item>Make not twa mewes of ane daughter.</item>
+               <item>Many maiſters, quoth the Pod<g ref="char:EOLhyphen"/>dock to the Harrow, when every tind took her a knock.</item>
+               <item>Meat and Maſſe, never hindred man.</item>
+               <pb n="38" facs="tcp:171746:22"/>
+               <item>Maiſtery mowes the Meadows down.</item>
+               <item>March Whiſquer was never a good Fiſher.</item>
+               <item>Miſter makes men of craft.</item>
+               <item>Make no balks of good beer<g ref="char:EOLhyphen"/>land.</item>
+               <item>Mickle water runs, where the Miller ſleeps.</item>
+               <item>Many brings the rake, but few the ſhovel.</item>
+               <item>Meikle muſt a good heart thole.</item>
+               <item>Many man makes an errand to the hall to bid the Lady good-day.</item>
+               <item>Many cares for meal that has baken bread enough.</item>
+               <item>Make not meikle of little.</item>
+               <item>Meikle ſpoken, part muſt ſpill.</item>
+               <item>Many tines the half-mark whin<g ref="char:EOLhyphen"/>ger for the half-penny whang.</item>
+               <item>Meſſengers ſhould neither be headed nor hanged.</item>
+               <item>Meikle hes, would ay have more.</item>
+               <item>Men are blind in their own cauſe.</item>
+               <pb n="39" facs="tcp:171746:22"/>
+               <item>Muſle not the Oxens mouth.</item>
+               <item>Many words would have meikle drink.</item>
+               <item>Many man ſpeirs the gate he kens full well.</item>
+               <item>Man propones, but God diſ<g ref="char:EOLhyphen"/>pones.</item>
+               <item>Millers take ay the beſt Multar with their own Hand.</item>
+               <item>Many man ſerves a thankleſſe maſter.</item>
+               <item>Muſtard after meat.</item>
+               <item>Many words fills not the furlot.</item>
+               <item>Meikle Head, little Wit.</item>
+               <item>Many Aunts many Eames, ma<g ref="char:EOLhyphen"/>ny kin, and few friends.</item>
+               <item>Mends is worth miſdeeds.</item>
+               <item>Men goes over the dike at the laicheſt.</item>
+               <item>Might oftentimes overcomes right.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>NEireſt the King, neireſt the Widdie.</item>
+               <pb n="40" facs="tcp:171746:23"/>
+               <item>No man can play the fool ſo weil as the wiſe man.</item>
+               <item>No plea is beſt.</item>
+               <item>Nature paſſes Nurture.</item>
+               <item>New Lords, new Laws.</item>
+               <item>Neireſt the heart, neireſt the mouth.</item>
+               <item>Na man can both ſup and blow together.</item>
+               <item>Nothing comes ſooner to light, than that which is long hid.</item>
+               <item>Nothing enters in a cloſe Hand.</item>
+               <item>Neir is the Kirtle, but neirer is the Sark.</item>
+               <item>Need hes no law.</item>
+               <item>No man may puind for unkind<g ref="char:EOLhyphen"/>neſſe.</item>
+               <item>Neireſt to the Kirk, fartheſt fra God.</item>
+               <item>Need makes Virtue.</item>
+               <item>Never rade, never fell.</item>
+               <item>Nothing is difficile to a weill willed man.</item>
+               <item>Need gars naked men run, and ſorrow gars Webſters ſpin.</item>
+               <pb n="41" facs="tcp:171746:23"/>
+               <item>No man can ſeek his marrow in the Kirn, ſo weil as he that hes bin in it himſelf.</item>
+               <item>No man makes his own hap.</item>
+               <item>No penny, no pardon.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>OF the Earth mon the dike be biggit.</item>
+               <item>Of other mens leather, men takes large whangs.</item>
+               <item>Over hot, over cold.</item>
+               <item>Of two ills chooſe the leaſt.</item>
+               <item>Over meikle of any thing is good for nothing.</item>
+               <item>Of ane ill comes many.</item>
+               <item>Of enough, men leave.</item>
+               <item>Over high, over laigh.</item>
+               <item>Of need make Virtue.</item>
+               <item>Over faſt, over looſe.</item>
+               <item>Of all War, Peace is the final end.</item>
+               <item>Over great familiarity genders deſpight.</item>
+               <pb n="42" facs="tcp:171746:24"/>
+               <item>Of ill Debtors men takes Oattes.</item>
+               <item>Over jolly dow not.</item>
+               <item>Oft counting makes good friends.</item>
+               <item>Of the abundance of the heart the mouth ſpeaketh.</item>
+               <item>Over narrow counting culzies no kindneſſe.</item>
+               <item>Out of ſight, out of langer.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>PUt twa half-pennies in a purſe, and they will draw together.</item>
+               <item>Put not your hand betwixt the rind and the Tree.</item>
+               <item>Pith is good in all Playes.</item>
+               <item>Penny wiſe, pound fool.</item>
+               <item>Puddings and Paramours would be hotly handled.</item>
+               <item>Poverty parts good company, and is an enemy to vertue.</item>
+               <item>Put a begger on horſeback, and he will ride faſt, or elſe break his neck.</item>
+               <item>Preiſts and Doves, make foul houſes.</item>
+               <pb n="43" facs="tcp:171746:24"/>
+               <item>Painters and Poets may have leave to lie.</item>
+               <item>Put your hand no farther nor your ſleeve may reek.</item>
+               <item>Plenty, is na Dainty.</item>
+               <item>Pride and ſweirneſſe would have meikle upholding.</item>
+               <item>Patience perforce.</item>
+               <item>Poor men are fain of little thing.</item>
+               <item>Poor men (they ſay) have no ſouls.</item>
+               <item>Poſſeſſion is worth an ill char<g ref="char:EOLhyphen"/>tour.</item>
+               <item>Play with your peers.</item>
+               <item>Pride will have a fall.</item>
+               <item>Proviſion in ſeaſon makes a rich meaſon.</item>
+               <item>Peter in, and Paul out.</item>
+               <item>Put that in the next few.</item>
+               <item>Put your hand into the creel, and you will get either an adder, or an Eele.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>Quhat better is the houſe that the Daw riſes in the morning.</item>
+               <pb n="44" facs="tcp:171746:25"/>
+               <item>Quha may wooe, but Coſt?</item>
+               <item>Quhen the well is full, it will run over.</item>
+               <item>Quhair the Deer is ſlain, ſome bloud will lie.</item>
+               <item>Quhom God will help, no man can hinder.</item>
+               <item>Quhen the eye ſees not, the heart rewes not.</item>
+               <item>Quhen friends meets, hearts warms.</item>
+               <item>Quhen I am dead, make me a caddel.</item>
+               <item>Quhair the Pig breaks, let the ſhels lie.</item>
+               <item>Quhiles the hawk hes, and whiles he hunger hes.</item>
+               <item>Quha may hold that will away?</item>
+               <item>Quhen wine is in, wits out.</item>
+               <item>Quhair ſtands your great horſe?</item>
+               <item>Quhen a man is full of luſt, his wemb is full of leaſing.</item>
+               <item>Quhen the good-wife is fra hame, the keys are tint.</item>
+               <item>Quhen the Steed is ſtoon, ſteik the ſtable-door.</item>
+               <pb n="45" facs="tcp:171746:25"/>
+               <item>Quhen Taylours are true, there is little good to ſhew.</item>
+               <item>Quhiles thou, whiles I, ſoe goes the Bailleri.</item>
+               <item>Quhen the craw flees, her tail follows.</item>
+               <item>Quhen thy neighbours houſe is on fire, take tent to thy own.</item>
+               <item>Quhen the good-man is fra hame, the board-cloth is tint.</item>
+               <item>Quhen the fron is hot, it is time to ſtrike.</item>
+               <item>Quhen the Play is beſt, it is beſt to lear.</item>
+               <item>Quhen all men ſpeaks, no man hears.</item>
+               <item>Quhen the Tod preaches, beware of the hens.</item>
+               <item>Quhen the belly is full the bones would be at reſt.</item>
+               <item>Quhen the cup is fulleſt, bear it eveneſt.</item>
+               <item>Qhuen thieves reckons, leal men comes to their geir.</item>
+            </list>
+            <list>
+               <pb n="46" facs="tcp:171746:26"/>
+               <head>R.</head>
+               <item>RYme ſpares no man.</item>
+               <item>Ruſe the fair day at even.</item>
+               <item>Rhue and time, grows both in ane garden.</item>
+               <item>Reaſon band the man.</item>
+               <item>
+                  <hi>Rome</hi> was not bigged on the firſt Day.</item>
+               <item>Rackleſſe youth makes a gouſtie Age.</item>
+               <item>Reavers ſhould not be rewers.</item>
+               <item>Rule youth well, and eild will rule it ſell.</item>
+               <item>Ruſe the Ford, as ye find it.</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SCots-men reckon ay fra an ill hour.</item>
+               <item>Send, and fetch.</item>
+               <item>Sairy be your meil-poke, and ay your nieve in the nook on't.</item>
+               <item>Sike Prieſt, ſike Offering.</item>
+               <pb n="47" facs="tcp:171746:26"/>
+               <item>Swear by your brunt ſhins.</item>
+               <item>Seying goes good cheap.</item>
+               <item>She that takes gifts her ſelf, ſhe ſels; and ſhe that gives, does nought elſe.</item>
+               <item>She is a ſairy mouſe, that hes but one Hole.</item>
+               <item>Shod in the cradle, bair-foot in the Stubble.</item>
+               <item>Spit on the Stane, and it will be wet at the laſt.</item>
+               <item>Sike lippes, ſike Latace.</item>
+               <item>Soon gotten, ſoon ſpended.</item>
+               <item>Saw thin, and maw thin.</item>
+               <item>Speir at Jock-thief my marrow, if I be a leal man.</item>
+               <item>Seldom rides, tynes the ſpurres.</item>
+               <item>She's a foul bird that fyles her own neſt.</item>
+               <item>Sike man, ſike maſter.</item>
+               <item>Seil comes not while ſorrow be gone.</item>
+               <item>Sooth bourd is na bourd.</item>
+               <item>Sike a man as thou would be, draw thee to ſike company.</item>
+               <pb n="48" facs="tcp:171746:27"/>
+               <item>Seldom lies the Devil dead by the dike ſide.</item>
+               <item>Sike father, ſike ſon.</item>
+               <item>Soft fire makes ſweet malt.</item>
+               <item>Sturt payes na Debt.</item>
+               <item>Self do, ſelf ha.</item>
+               <item>Surfeit ſlayes mae nor the ſword,</item>
+               <item>Shame ſhall fall them that ſhame thinks, to do themſelves a good turn.</item>
+               <item>Shew me the man, and I will ſhew you the Law.</item>
+               <item>Seek your ſauce where you get your Ale.</item>
+               <item>Shro the ghueſt the houſe is the war of.</item>
+               <item>Sokeing ſale is beſt.</item>
+               <item>Send him to the ſea and he will not get water.</item>
+               <item>Shame is paſt the ſhad of your haire.</item>
+               <item>She hath paſt the diſcipline of a Tavern.</item>
+               <item>Sain you will fra the Devil, and the Lairds bairns.</item>
+               <pb n="49" facs="tcp:171746:27"/>
+               <item>Small winning makes a heavy purſe.</item>
+               <item>Sike anſwer as a man gives, ſike will he get.</item>
+               <item>Soon ripe, ſoon rotten.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>TWo Wolves may worry ane Sheep.</item>
+               <item>There is remead for all things but ſtarke dead.</item>
+               <item>There is little to the rake to get after the beiſome.</item>
+               <item>There came never ill of good Adviſement.</item>
+               <item>There was never a Cake, but it had a make.</item>
+               <item>There is no friend, to a friend in miſter.</item>
+               <item>Take time while time is, for time will away.</item>
+               <item>Tide and time, bides na man.</item>
+               <item>Time tries the truth.</item>
+               <item>The mair haſte, the war ſpeed.</item>
+               <pb n="50" facs="tcp:171746:28"/>
+               <item>The tree falls not at the firſt ſtrake.</item>
+               <item>Thou wilt get no more of the cat, but the skin.</item>
+               <item>There are many ſooth words ſpo<g ref="char:EOLhyphen"/>ken in bourding.</item>
+               <item>There is na thief without a Re<g ref="char:EOLhyphen"/>ſetter.</item>
+               <item>There is many a fair thing full falſe.</item>
+               <item>There is na man ſo deaf as he that will not hear.</item>
+               <item>There was never a fair word in flyting.</item>
+               <item>The mouth that lyes, ſlayes the ſoul.</item>
+               <item>Trot mother, trot father, how ſhould the foal amble?</item>
+               <item>They were never fain that fidgit.</item>
+               <item>Two fools in ane houſe, is over many.</item>
+               <item>The day hes eyne, the night hes ears.</item>
+               <item>The more ye tramp in a— it grows the broader.</item>
+               <pb n="51" facs="tcp:171746:28"/>
+               <item>That which huſſies ſpares, Cats eat.</item>
+               <item>The weakeſt goes to the walls.</item>
+               <item>There is no medicine for fear.</item>
+               <item>Touch a gall'd Horſe on the back and he will fling.</item>
+               <item>There is no fool to an old fool.</item>
+               <item>There is none without a fault.</item>
+               <item>The longer we live, the more farlies we ſee.</item>
+               <item>They are welcome that brings.</item>
+               <item>Twa Daughters, and a back<g ref="char:EOLhyphen"/>door, are three ſtark thieves.</item>
+               <item>The Piper wants meikle, that wants the nether chafts.</item>
+               <item>There came never a large Fart forth of a Wrans—</item>
+               <item>Teem bags rattles.</item>
+               <item>The thing that is friſted, is not forgiven.</item>
+               <item>Take part of the pelf when the pack is a dealing.</item>
+               <item>Tread on a Worm and ſhe will ſtir her tail.</item>
+               <item>They are lightly herrite, that hes all their awn.</item>
+               <pb n="52" facs="tcp:171746:29"/>
+               <item>The Craw thinks her awn Bird faireſt.</item>
+               <item>They buy good cheap that brings nothing hame.</item>
+               <item>Thraw the wand while it is green.</item>
+               <item>The Sowter's wife is worſt ſhod.</item>
+               <item>They will know by an half-pen<g ref="char:EOLhyphen"/>ny if a Preiſt will take offering.</item>
+               <item>The worſt world that ever was, ſome man wan.</item>
+               <item>The Tailours wife is worſt clad.</item>
+               <item>Take him up there with his five Egges, and four of them rotten.</item>
+               <item>Thy tongue is no ſlander.</item>
+               <item>This bolt came never out of your bag.</item>
+               <item>There is little ſap in dry peis hools.</item>
+               <item>Tarrowing bairns were never fat.</item>
+               <item>The mother of miſchief is na mair nor a midgewing.</item>
+               <item>The higher up, the greater fall.</item>
+               <item>There are many fair words in the marriage making, but few in the tochergood paying.</item>
+               <pb n="53" facs="tcp:171746:29"/>
+               <item>True love kythes in time of need.</item>
+               <item>There is nothing mair precious nor time.</item>
+               <item>The mair coſt, the mair honour.</item>
+               <item>The leſſe play the better.</item>
+               <item>They that ſpeirs meikle will get wot of part.</item>
+               <item>There is meikle between word and deed.</item>
+               <item>There are mae wayes to the wood nor ane.</item>
+               <item>The blind Horſe is hardieſt.</item>
+               <item>The mae the merrier, the fewer the better cheer.</item>
+               <item>They are good willy of their Horſe that hes none.</item>
+               <item>Three may keep counſel if twa be away.</item>
+               <item>They put at the Cairt, that is ay gangan.</item>
+               <item>Twa wits is better nor ane.</item>
+               <item>They laugh ay that wins.</item>
+               <item>There are mae maidens, nor maukin.</item>
+               <item>They menſe little the mouth, that bites off the noſe.</item>
+               <pb n="54" facs="tcp:171746:30"/>
+               <item>There is nothing ſo crouſe, as a new waſhen louſe.</item>
+               <item>They are as wiſe, as ſpeir not.</item>
+               <item>This world will not laſt ay.</item>
+               <item>Twa hungry meltithes makes the third a glutton.</item>
+               <item>The grace of God is geir enough.</item>
+               <item>Thou ſhouldſt not tell thy foe when thy foot ſleeps.</item>
+               <item>The greateſt Clerks are not the wiſeſt men.</item>
+               <item>There belongs mair to a bed nor four bare leggs.</item>
+               <item>They had never an ill day, that had a good evening.</item>
+               <item>There is meikle hid meat in a Gooſe eye.</item>
+               <item>Take a man by his word, and a Cow by her horn.</item>
+               <item>The ſhots overgoes the old ſwine.</item>
+               <item>Touch me not on the ſair heel.</item>
+               <item>The Malt is above the Meal.</item>
+               <item>There is a dog in the well.</item>
+               <item>Thy Thumb is under my Belt.</item>
+               <pb n="55" facs="tcp:171746:30"/>
+               <item>The gooſe-pan is above the roaſt.</item>
+               <item>The next time ye dance, wit whom ye take by the hand.</item>
+            </list>
+            <list>
+               <head>U.</head>
+               <item>USe your friend as ye would have him.</item>
+               <item>Unskilfull mediciners, and horſe<g ref="char:EOLhyphen"/>marſhels ſlayes, both man and beaſt.</item>
+               <item>Uſe makes perfectneſſe.</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>WEll done, ſoon done.</item>
+               <item>Wonder laſts but nine nights in a Town.</item>
+               <item>We have a craw to pluck.</item>
+               <item>Whatrax my Jo, I ken your coptan.</item>
+               <item>Wrang hes no warrand.</item>
+               <item>Wont beguil'd the Lady.</item>
+               <item>Wit in a poor mans head, and moſſe in a mountain, avails nothing.</item>
+               <item>Weil is that weil does.</item>
+               <pb n="56" facs="tcp:171746:31"/>
+               <item>Well good-mother-daughter.</item>
+               <item>Whatrax of the feed, where the frendſhip dow not.</item>
+               <item>Wood in wilderneſſe, &amp; ſtrength in a fool.</item>
+               <item>Weapons bodes peace.</item>
+               <item>Wiles help weak folk.</item>
+               <item>Waken not ſleeping dogs.</item>
+               <item>Women and bairns keep counſell of that they ken not.</item>
+               <item>We hounds ſlew the Hare, quoth the meſſoun.</item>
+               <item>Wiſhers and woulders are poor houſeholders.</item>
+               <item>Weil worth aw, that gars the plough draw.</item>
+               <item>Words are but winde, but dunts are the Devill.</item>
+               <item>With empty hand no man ſhould hawks allure.</item>
+               <item>Wark bears witneſſe who weil does.</item>
+               <item>Wrang hearing makes wrang re<g ref="char:EOLhyphen"/>hearſing.</item>
+               <item>Wealth gars wit waver.</item>
+               <pb n="57" facs="tcp:171746:31"/>
+               <item>Weil bides, weil betides.</item>
+               <item>Wrong count is no payment.</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>YE ſhould be a King <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f your word.</item>
+               <item>Your winning is no my tinſel.</item>
+               <item>Ye may puind for debt, but not for unkindneſſe.</item>
+               <item>Ye learn your Father to get bairns.</item>
+               <item>Ye will break your crag as ſoon as your faſt in his houſe.</item>
+               <item>Ye ride a bootleſſe errand.</item>
+               <item>Ye may not ſit in <hi>Rome,</hi> and ſtrive with the Pope.</item>
+               <item>Ye ſeek grace at a graceleſſe face.</item>
+               <item>Ye ſtrive againſt the ſtream.</item>
+               <item>Ye drive a Snail to <hi>Rome.</hi>
+               </item>
+               <item>Youth never caſts for peril.</item>
+               <item>Ye ſeek hot water under cold ice.</item>
+               <item>Ye breed of the cat, ye would fain have fiſh, but ye have na will to wet your feet.</item>
+               <pb n="58" facs="tcp:171746:32"/>
+               <item>Youth and age will never agree.</item>
+               <item>Ye will get war bodes ere Beltan.</item>
+               <item>Ye breed of the gouk, ye have not a rime but ane.</item>
+               <item>Ye may drink of the burn, but not bite of the brae.</item>
+               <item>Ye cannot make a ſilk purſe of a ſows lug.</item>
+               <item>Ye have a face to God, and an<g ref="char:EOLhyphen"/>other to the Devil.</item>
+               <item>Ye breed of the Millers dog, ye lick your lips ere the poke be open.</item>
+               <item>Ye would doe little for God, and the Devil were dead.</item>
+               <item>Ye have a ready mouth for a ripe cherry.</item>
+            </list>
+            <pb facs="tcp:171746:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
